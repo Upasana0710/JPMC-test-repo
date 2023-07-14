@@ -1,0 +1,76 @@
+
+.card1::before
+{
+    content: '';
+    background-image: url("https://th.bing.com/th/id/OIP.81or_y1ril-19pJ8a9izPwHaFx?w=233&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7");
+   min-height: 25vh;
+   background-repeat: no-repeat;
+   background-size: cover;
+    
+   
+   
+
+  
+
+   
+    padding: 40px;
+    
+  
+}
+h1
+{
+    color: #333; 
+    font-family: 'Chela One', cursive;
+    
+}
+.card2::before
+{
+    content:'';
+    background-image: url("https://th.bing.com/th/id/OIP._vqsFL7bZbEc2_vVhiZyUwHaE7?w=235&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7");
+    min-height: 25vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:50px;
+}
+.card3::before
+{
+    
+    content:'';
+    background-image: url("https://th.bing.com/th/id/OIP.Bdm8UKniBDcWe54noxB5awAAAA?w=250&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7");
+    min-height: 25vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+ padding: 40px;
+}
+.card4::before
+{
+    content:'';
+    background-image: url("https://th.bing.com/th/id/OIP.3ZOJslvEA8xpIJtpKU6kkwHaFc?w=247&h=182&c=7&r=0&o=5&dpr=1.3&pid=1.7");
+    min-height: 25vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+}
+.card5::before
+{
+    content:'';
+    background-image: url("https://th.bing.com/th/id/OIP.Zy6W2RxN1QDqWIby6y8z9gHaEK?w=310&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7");
+    min-height: 25vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+}
+.card6::before
+{
+    content:'';
+    background-image: url("https://th.bing.com/th/id/OIP.siw7tKGjVfjmNEyXtpLaTgHaDt?w=330&h=174&c=7&r=0&o=5&dpr=1.3&pid=1.7");
+    min-height: 25vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px;
+     padding: 40px;
+}
+.image
+{
+    border-radius: 50%;
+}
