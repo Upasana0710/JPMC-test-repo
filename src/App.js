@@ -5,7 +5,7 @@ import Contact from './conatctus/Conatct';
 function App() {
   return (
     <div className="App ">
-    <Student/>
+   <Contact/>
     </div>
   );
 }

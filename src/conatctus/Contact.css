@@ -1,17 +1,19 @@
-
-.flex-body1{
-    
-
-    text-align: center;
-    color: antiquewhite;
-    height: 700px;
+.image11{
+    width:600px;
+    height:700px;
 }
-
-.flex-body{
-    
-   
-  
-    text-align: center;
-    color: rgb(45, 12, 99);
-    height: 700px;
+.contact{
+   text-align: center;
+   color: rgb(249, 249, 249);
+  margin-left: 19rem;
+  margin-bottom: 20px;
+}
+.btn
+{
+    margin-left: 140px;
+}
+.fm{
+    margin-top: 80px;
+    margin-left: 200px;
+    margin-right: -70px;
 }
